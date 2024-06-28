@@ -61,20 +61,20 @@ def join_part(part, index, array)
   [array, index]
 end
 ```
-</details></br>
+</details>
 
 ## Experience
 **ITRANSITION**  
 _Intern JavaScript Developer, Remote_  
 _April 2024 – June 2024_
-- Developed a full-stack MERN project integrated with 2 services (Jira, Odoo). [Certificate](https://drive.google.com/file/d/1r8X-kzND5sdMxpGS1UiWIZJebz-6UX25/view?usp=sharing) | [Live Demo](https://itransition-courseproject-frontend.onrender.com/) | [GitHub](https://github.com/Zilola-Nazarova/itransition-courseproject)
+- Developed a full-stack MERN project integrated with 2 services (Jira, Odoo). [Live Demo](https://itransition-courseproject-frontend.onrender.com/) \| [GitHub](https://github.com/Zilola-Nazarova/itransition-courseproject) \| [Certificate](https://drive.google.com/file/d/1r8X-kzND5sdMxpGS1UiWIZJebz-6UX25/view?usp=sharing)
 
 **HIGHLIGHTED PERSONAL PROJECTS**  
 _Full Stack Web Developer_  
 _May 2023 – March 2024_
-- _SmartPocket_ — keep track of your expenses — create, update, delete transactions and group them into categories. Built with: Ruby on Rails. [Live Demo](https://smart-pocket-app.onrender.com/) | [GitHub](https://github.com/Zilola-Nazarova/budget-app)
-- _Mountains Forecast_ — see current weather conditions and hourly forecasts for peaks; add new locations. Built with: React, Redux and Ruby on Rails. [Live Demo](https://mountains-forecast.onrender.com/) | [GitHub](https://github.com/Zilola-Nazarova/mountains-forecast)
-- _Bookstore_ — create your list of favorite books by adding and removing books. The list is saved in local storage. Built with: React, Redux. [Live Demo](https://bookstore-4xzu.onrender.com/) | [GitHub](https://github.com/Zilola-Nazarova/bookstore)
+- _SmartPocket_ — keep track of your expenses — create, update, delete transactions and group them into categories. Built with: Ruby on Rails. [Live Demo](https://smart-pocket-app.onrender.com/) \| [GitHub](https://github.com/Zilola-Nazarova/budget-app)
+- _Mountains Forecast_ — see current weather conditions and hourly forecasts for peaks; add new locations. Built with: React, Redux and Ruby on Rails. [Live Demo](https://mountains-forecast.onrender.com/) \| [GitHub](https://github.com/Zilola-Nazarova/mountains-forecast)
+- _Bookstore_ — create your list of favorite books by adding and removing books. The list is saved in local storage. Built with: React, Redux. [Live Demo](https://bookstore-4xzu.onrender.com/) \| [GitHub](https://github.com/Zilola-Nazarova/bookstore)
 
 **TOSHUYJOYLITI**  
 _Tashkent, Uzbekistan_  
