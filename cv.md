@@ -98,3 +98,16 @@ _Bachelors, Architecture (GPA 3.55)_
 _Sep 2013 – Feb 2018_
 - Was chosen as 1 of 5 students for the 1st international exchange program of the university and studied 1 semester at the Hanbat National University (South Korea).
 - Participated in governmental competitions on descriptive geometry (2016 - 4th place) and architectural design (2016 - 2nd place, 2017 - 2nd place), was granted a 2nd-grade diploma in 'Architecture Universities Best Diploma Projects in 2017-2018' by the Union of Architects of Uzbekistan.
+
+## English
+CERTIFICATES
+- IELTS Academic - 7.0 (2013)
+- TOEFL iBT - 107 (2015)
+
+PRACTICE
+- 6-month exchange program study in South Korea (2015)
+- a month exchange program study in France (March 2016)
+- 8-months remote learning at Microverse BootCamp (2023)
+
+OTHER
+- EPAM Campus English test - B2
