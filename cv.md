@@ -21,9 +21,6 @@ Full-stack web developer blending a background in architecture with a passion fo
 ## Code Sample
 **Simple Quicksort:** A `partition` method splits an array into smaller and greater elements (with respect to the first element aka `pivot`). Each time I call `partition`, I am sorting two parts of the array with respect to each other. I repeatedly use `partition` on sub-arrays (left and right) to sort an entire array. When `partition` is called on two elements, that sub-array is fully sorted. The first element in any sub-array is used as a pivot. It appears in the middle when combining the two lists together (`resemble` method).
 
-<details>
-<summary>SHOW CODE</summary>
-
 ```ruby
 def simple_quicksort(array)
   partition(array)
@@ -62,7 +59,6 @@ def join_part(part, index, array)
   [array, index]
 end
 ```
-</details>
 
 ## Experience
 **ITRANSITION**  
