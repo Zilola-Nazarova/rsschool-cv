@@ -20,6 +20,7 @@ Full-stack web developer blending a background in architecture with a passion fo
 
 ## Code Sample
 **Simple Quicksort:** A `partition` method splits an array into smaller and greater elements (with respect to the first element aka `pivot`). Each time I call `partition`, I am sorting two parts of the array with respect to each other. I repeatedly use `partition` on sub-arrays (left and right) to sort an entire array. When `partition` is called on two elements, that sub-array is fully sorted. The first element in any sub-array is used as a pivot. It appears in the middle when combining the two lists together (`resemble` method).
+
 <details>
 <summary>SHOW CODE</summary>
 
@@ -80,34 +81,33 @@ _May 2023 – March 2024_
 _Tashkent, Uzbekistan_  
 _Architect, Aseismic Construction Department_  
 _Apr 2019 – May 2023_
-- Rendered models of innovative constructions which were presented at the UzBuild 2020 exhibition.
-- Performed calculations and documentation of innovative constructions that were patented internationally (IAP
-20180364).
-- Earned a promotion over 1 year for updating 8 building codes (approved by the Ministry of Construction).
+- Rendered models of innovative constructions which were presented at the UzBuild 2020 exhibition
+- Performed calculations and documentation of innovative constructions that were patented internationally (IAP 20180364)
+- Earned a promotion over 1 year for updating 8 building codes (approved by the Ministry of Construction)
 
 ## Education
 **MICROVERSE**  
 _Full Stack Web Development Program, Full-Time, Remote_  
 _May 2023 – Dec 2023_
-- Spent 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects with Ruby, Rails, JavaScript, React, and Redux.
-- Developed skills in remote pair programming using GitHub, industry-standard git-flow, and daily standups to communicate and collaborate with international remote developers.
+- Spent 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects with Ruby, Rails, JavaScript, React, and Redux
+- Developed skills in remote pair programming using GitHub, industry-standard git-flow, and daily standups to communicate and collaborate with international remote developers
 
 **TASHKENT UNIVERSITY OF ARCHITECTURE AND CIVIL ENGINEERING**  
 _Tashkent, Uzbekistan_  
 _Bachelors, Architecture (GPA 3.55)_  
 _Sep 2013 – Feb 2018_
-- Was chosen as 1 of 5 students for the 1st international exchange program of the university and studied 1 semester at the Hanbat National University (South Korea).
-- Participated in governmental competitions on descriptive geometry (2016 - 4th place) and architectural design (2016 - 2nd place, 2017 - 2nd place), was granted a 2nd-grade diploma in 'Architecture Universities Best Diploma Projects in 2017-2018' by the Union of Architects of Uzbekistan.
+- Was chosen as 1 of 5 students for the 1st international exchange program of the university and studied 1 semester at the Hanbat National University (South Korea)
+- Participated in governmental competitions on descriptive geometry (2016 - 4th place) and architectural design (2016 - 2nd place, 2017 - 2nd place), was granted a 2nd-grade diploma in 'Architecture Universities Best Diploma Projects in 2017-2018' by the Union of Architects of Uzbekistan
 
 ## English
-CERTIFICATES
+**CERTIFICATES**
 - IELTS Academic - 7.0 (2013)
 - TOEFL iBT - 107 (2015)
 
-PRACTICE
+**PRACTICE**
 - 6-month exchange program study in South Korea (2015)
 - a month exchange program study in France (March 2016)
 - 8-months remote learning at Microverse BootCamp (2023)
 
-OTHER
+**OTHER**
 - EPAM Campus English test - B2
