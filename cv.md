@@ -62,3 +62,39 @@ def join_part(part, index, array)
 end
 ```
 </details></br>
+
+## Experience
+**ITRANSITION**  
+_Intern JavaScript Developer, Remote_  
+_April 2024 – June 2024_
+- Developed a full-stack MERN project integrated with 2 services (Jira, Odoo). [Certificate](https://drive.google.com/file/d/1r8X-kzND5sdMxpGS1UiWIZJebz-6UX25/view?usp=sharing) | [Live Demo](https://itransition-courseproject-frontend.onrender.com/) | [GitHub](https://github.com/Zilola-Nazarova/itransition-courseproject)
+
+**HIGHLIGHTED PERSONAL PROJECTS**  
+_Full Stack Web Developer_  
+_May 2023 – March 2024_
+- _SmartPocket_ — keep track of your expenses — create, update, delete transactions and group them into categories. Built with: Ruby on Rails. [Live Demo](https://smart-pocket-app.onrender.com/) | [GitHub](https://github.com/Zilola-Nazarova/budget-app)
+- _Mountains Forecast_ — see current weather conditions and hourly forecasts for peaks; add new locations. Built with: React, Redux and Ruby on Rails. [Live Demo](https://mountains-forecast.onrender.com/) | [GitHub](https://github.com/Zilola-Nazarova/mountains-forecast)
+- _Bookstore_ — create your list of favorite books by adding and removing books. The list is saved in local storage. Built with: React, Redux. [Live Demo](https://bookstore-4xzu.onrender.com/) | [GitHub](https://github.com/Zilola-Nazarova/bookstore)
+
+**TOSHUYJOYLITI**  
+_Tashkent, Uzbekistan_  
+_Architect, Aseismic Construction Department_  
+_Apr 2019 – May 2023_
+- Rendered models of innovative constructions which were presented at the UzBuild 2020 exhibition.
+- Performed calculations and documentation of innovative constructions that were patented internationally (IAP
+20180364).
+- Earned a promotion over 1 year for updating 8 building codes (approved by the Ministry of Construction).
+
+## Education
+**MICROVERSE**  
+_Full Stack Web Development Program, Full-Time, Remote_  
+_May 2023 – Dec 2023_
+- Spent 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects with Ruby, Rails, JavaScript, React, and Redux.
+- Developed skills in remote pair programming using GitHub, industry-standard git-flow, and daily standups to communicate and collaborate with international remote developers.
+
+**TASHKENT UNIVERSITY OF ARCHITECTURE AND CIVIL ENGINEERING**  
+_Tashkent, Uzbekistan_  
+_Bachelors, Architecture (GPA 3.55)_  
+_Sep 2013 – Feb 2018_
+- Was chosen as 1 of 5 students for the 1st international exchange program of the university and studied 1 semester at the Hanbat National University (South Korea).
+- Participated in governmental competitions on descriptive geometry (2016 - 4th place) and architectural design (2016 - 2nd place, 2017 - 2nd place), was granted a 2nd-grade diploma in 'Architecture Universities Best Diploma Projects in 2017-2018' by the Union of Architects of Uzbekistan.
